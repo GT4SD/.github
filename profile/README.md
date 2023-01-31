@@ -21,13 +21,17 @@ If you want to contribute and get involved check out our [guidelines](https://gi
 
 ## 👩‍💻 How can I use it?
 
-We are just getting started but there is already plenty of stuff you can do with GT4SD.
+We are continuously evolving GT4SD but there is already plenty of stuff you can do with it.
 
 A good starting point is to check out the library and the short introductory guide in its [README.md](https://github.com/GT4SD/gt4sd-core).
 
 You can find all implementation details and some examples in our [docs](https://gt4sd.github.io/gt4sd-core/).
 
 Try out the [notebooks](https://github.com/GT4SD/gt4sd-core/tree/main/notebooks) we prepared to use generative models for various scientific applications.
+
+If you are an end-user and not a developer, just try out some of our pretrained models via a simple [web-app](https://huggingface.co/spaces/GT4SD) (no programming required 👩‍💻)
+<img src="https://github.com/GT4SD/gt4sd-core/blob/main/docs/_static/gt4sd_gradio_apps.png" alt="gradio-apps" width=1200/>
+
 
 <!--
 
@@ -39,7 +43,6 @@ Try out the [notebooks](https://github.com/GT4SD/gt4sd-core/tree/main/notebooks)
 
 -->
 
-<img src="https://iili.io/H1lXnTP.png" alt="logo" width=200/>
 
 
 
