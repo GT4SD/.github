@@ -38,3 +38,8 @@ Try out the [notebooks](https://github.com/GT4SD/gt4sd-core/tree/main/notebooks)
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 -->
+
+<img src="https://iili.io/H1lXnTP.png" alt="logo" width=200/>
+
+
+
