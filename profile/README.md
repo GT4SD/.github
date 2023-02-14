@@ -29,7 +29,7 @@ You can find all implementation details and some examples in our [docs](https://
 
 Try out the [notebooks](https://github.com/GT4SD/gt4sd-core/tree/main/notebooks) we prepared to use generative models for various scientific applications.
 
-If you are an end-user and not a developer, just try out some of our pretrained models via a simple [web-app](https://huggingface.co/spaces/GT4SD) (no programming required 👩‍💻)
+If you are an end-user and not a developer, just try out some of our pretrained models via a simple [web-app](https://huggingface.co/GT4SD) (no programming required 👩‍💻)
 <img src="https://github.com/GT4SD/gt4sd-core/blob/main/docs/_static/gt4sd_gradio_apps.png" alt="gradio-apps" width=1200/>
 
 
